@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#geral{
+    width: 1400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 33, 77);
+}
+
+#banner{
+    width: 1400px;
+    height: 300px;
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px 300px;
+    margin-bottom: 1px;
+}
+
+#logo{
+    width: 150px;
+    height: 150px;
+    background-image: url("../images/LOGO.png");
+    background-repeat: no-repeat;
+    background-size: 50px 50pxs;
+    margin-left: 40px;
+}
+
+#bannertext1{
+    width: 500px;
+    height: 10px;
+    font-size: 16pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 40px;
+}
+
+#bannertext2{
+    width: 500px;
+    height: 10px;
+    font-size: 24pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 40px;
+}
+
+#menu{
+    width: 1400px;
+    height: 30px;
+    background-color: rgb(36, 36, 107);
+    line-height: 30px;
+}
+
+.opcoesmenu{
+    color: black;
+    display: inline-block;
+    margin-left: 20px;
+    border-right: white dotted 1px;
+    padding-right: 20px;
+}
+
+ul li span{
+    color: white;
+    text-decoration: none;
+}
+
+#propaganda{
+    width: 800px;
+    height: 80px;
+    background-image: url("../images/gifpropaganda.gif");
+    background-size: 800px 80px;
+    background-repeat: no-repeat;
+    margin: 6px;
+}
+
+#corpo{
+    width: 850px;
+    height: 1000px;
+    margin: 6px;
+    border: solid rgb(184, 184, 184) 1px;
+}
+
+#textobemvindo{
+    width: 850px;
+    height: 180px;
+    font-size: 14px;
+    padding-top: 20px;
+    padding-left: 5px;
+}
+
+#comoajudar{
+    width: 200px;
+    height: 300px;
+    font-size: 16px;
+    color: black;
+    padding-left: 5px;
+    border: solid rgb(184, 184, 184) 1px;
+    float: left;
+}
+
+#comoadotar{
+    width: 250px;
+    height: 300px;
+    font-size: 16px;
+    color: black;
+    padding-left: 5px;
+    border: solid rgb(184, 184, 184) 1px;
+    float: left;
+}
+
+#projeto{
+    width: 379px;
+    height: 300px;
+    font-size: 16px;
+    color: black;
+    padding-left: 5px;
+    border: solid rgb(184, 184, 184) 1px;
+    float: left;
+}
+
+#video{
+    width: 457px;
+    height: 450px;
+    font-size: 16px;
+    color: black;
+    padding-left: 5px;
+    border: solid rgb(184, 184, 184) 1px;
+    float: left;
+}
+
+#eventos{
+    width: 379px;
+    height: 450px;
+    font-size: 16px;
+    color: black;
+    padding-left: 5px;
+    border: solid rgb(184, 184, 184) 1px;
+    float: left;
+}
